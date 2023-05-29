@@ -2531,7 +2531,12 @@ input:-moz-placeholder, textarea:-moz-placeholder { color: rgba(34, 59, 85, 0.6)
 
 .field-inline-s2 input { text-align: center; }
 
-@media (max-width: 575px) { .field-inline-s2 input { margin-bottom: 5px; } }
+@media (max-width: 575px) { .field-inline-s2 input { margin-bottom: 5px; } 
+.token-bar-chart{
+
+  width: 60%;
+}
+}
 
 .field-inline-s2 .submit-wrap { margin-left: 0; }
 

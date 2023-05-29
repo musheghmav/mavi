@@ -7138,7 +7138,9 @@ ul.progress-info { display: flex; justify-content: space-between; }
   .section-b-x, .section-x { padding-bottom: 150px !important; } }
 
 @media (max-width: 575px) { .section-mxw-t-0 { padding-top: 0; }
-  .section-mxw-b-0 { padding-top: 0; } }
+  .section-mxw-b-0 { padding-top: 0; }
+
+}
 
 @media (max-width: 767px) { .section-sm-mxw-t-0 { padding-top: 0; }
   .section-sm-mxw-b-0 { padding-top: 0; } }
